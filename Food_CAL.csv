@@ -1,0 +1,498 @@
+,food_name,quantity,calories,type,core,carbohydrates(g),fat(g),protein(g)
+0,Aloo Paratha,1 paratha,330,Vegetarian,Aloo,47.72,13.45,5.94
+1,Aloo Matar,1 serving (125 g),123,Vegetarian,Aloo,20.6,3.7,4.11
+2,Aloo Tikki,1 serving (125 g),111,Vegetarian,Aloo,18.15,4.23,2.38
+3,Aloo Palak,1 serving (125 g),116,Vegetarian,Aloo,17.63,4.81,3.53
+4,Aloo Gosht,1 serving (86 g),118,Vegetarian,Aloo,5.95,7.6,6.76
+5,Dum Aloo,1 serving (125 g),164,Vegetarian,Aloo,24.68,6.96,3.99
+6,Aloo Baingan,1 cup,190,Vegetarian,Aloo,25.41,10.2,4.41
+7,Aloo Sabzi,100 g,96,Vegetarian,Aloo,17.52,2.89,2.34
+8,Aloo Beans,100 g,92,Vegetarian,Aloo,11.8,4.65,1.74
+9,Aloo Ka Bharta,100 g,102,Vegetarian,Aloo,19.67,2.08,2.2
+10,Aloo Gobi,1 serving (125 g),108,Vegetarian,Aloo,17.02,4.39,2.86
+11,Chicken,100 g,237,Non Vegetarian,Chicken,0.0,13.49,27.07
+12,Chicken Schnitzel,1 fillet,300,Non Vegetarian,Chicken,16.48,19.01,15.75
+13,Chicken Drumstick Meat And Skin,"1 drumstick, bone removed",118,Non Vegetarian,Chicken,0.0,6.34,14.07
+14,Chicken Breast,100 g,195,Non Vegetarian,Chicken,0.0,7.72,29.55
+15,Chicken Meat,100 g,119,Non Vegetarian,Chicken,0.0,3.08,21.39
+16,Roasted Grilled Or Baked Chicken,100 g,237,Non Vegetarian,Chicken,0.0,13.49,27.07
+17,Chicken Breast Meat And Skin,"1/2 breast, bone removed (yield from 450 g ready-to-cook chicken)",150,Non Vegetarian,Chicken,0.0,8.05,18.14
+18,Roasted Grilled Or Baked Chicken Leg,1 medium,262,Non Vegetarian,Chicken,0.0,15.22,29.34
+19,Crumbed Chicken Schnitzel,1 serving (110 g),201,Non Vegetarian,Chicken,4.9,10.3,21.2
+20,Chicken Wing,1 small,81,Non Vegetarian,Chicken,0.0,5.4,7.46
+21,Roasted Grilled Or Baked Chicken Thigh,1 small,135,Non Vegetarian,Chicken,0.0,8.45,13.67
+22,Baked Or Fried Coated Chicken Thigh With Skin,1 medium,239,Non Vegetarian,Chicken,8.48,14.23,18.14
+23,Chicken Or Turkey Cordon Bleu,1 cup,308,Non Vegetarian,Chicken,6.86,17.75,27.13
+24,Chicken With Gravy (mixture),1/2 chicken breast with gravy,172,Non Vegetarian,Chicken,3.59,8.44,19.48
+25,Grilled Chicken,100 g,188,Non Vegetarian,Chicken,0.0,7.35,28.69
+26,Chicken Or Turkey And Rice With Cream Sauce (mixture),1 cup,355,Non Vegetarian,Chicken,32.29,14.93,21.87
+27,Baked Or Fried Coated Chicken Drumstick With Skin,1 small,148,Non Vegetarian,Chicken,4.52,8.63,12.4
+28,Baked Or Fried Coated Chicken Leg Skinless (coating Eaten),1 small,291,Non Vegetarian,Chicken,11.5,15.37,25.09
+29,Stewed Chicken Wing,1 small,84,Non Vegetarian,Chicken,0.0,5.67,7.68
+30,"Chicken Or Turkey A La King With Vegetables In Cream, White Or Soup Based Sauce",1 cup,460,Non Vegetarian,Chicken,15.3,33.4,24.8
+31,Light Crumbed Chicken Breast Fillet,1 fillet (66 g),107,Non Vegetarian,Chicken,3.5,2.5,12.0
+32,"Chicken Liver (simmered, Cooked)",100 g,167,Non Vegetarian,Chicken,0.87,6.51,24.46
+33,"Chicken Meat And Skin (roasted, Cooked)","1/2 chicken, bone removed",715,Non Vegetarian,Chicken,0.0,40.66,81.63
+34,Chicken Thigh,1 small,135,Non Vegetarian,Chicken,0.0,8.45,13.67
+35,Chicken Marsala,1 serving,357,Non Vegetarian,Chicken,8.72,6.78,56.4
+36,Chicken Or Turkey With Barbecue Sauce,1/2 chicken breast with sauce,234,Non Vegetarian,Chicken,2.85,11.32,28.34
+37,Sweet Chilli Chicken Kebabs,100 g,140,Non Vegetarian,Chicken,5.3,1.2,15.9
+38,Stewed Chicken Drumstick,1 medium,115,Non Vegetarian,Chicken,0.0,6.01,14.31
+39,"Chicken Leg Meat And Skin (roasted, Cooked)","1 leg, bone removed",264,Non Vegetarian,Chicken,0.0,15.34,29.59
+40,Baked Or Fried Coated Chicken Drumstick Skinless (coating Eaten),1 small,92,Non Vegetarian,Chicken,3.04,4.65,8.87
+41,Baked Or Fried Coated Chicken Thigh Skinless,1 medium,161,Non Vegetarian,Chicken,6.4,8.62,13.53
+42,Sweet Chilli Chicken Fillets,100 g,166,Non Vegetarian,Chicken,5.8,2.8,28.2
+43,Braised Chicken Liver,1 cup of diced,232,Non Vegetarian,Chicken,1.2,9.04,33.96
+44,Fried Chicken Liver,100 g,261,Non Vegetarian,Chicken,7.84,12.15,28.04
+45,Baked Or Fried Coated Chicken Breast With Skin (skin/coating Not Eaten),1/2 small,138,Non Vegetarian,Chicken,0.0,3.51,25.01
+46,Baked Or Fried Coated Chicken Skinless (coating Not Eaten),"1 medium piece (yield after cooking, bone and coating removed)",111,Non Vegetarian,Chicken,0.0,4.76,15.97
+47,Chicken Kiev With Rice Vegetable Mixture (frozen Meal),1 meal (225 g),504,Non Vegetarian,Chicken,30.83,30.4,25.79
+48,"Chicken Liver (pan Fried, Cooked)",100 g,172,Non Vegetarian,Chicken,1.11,6.43,25.78
+49,Canned Chicken (meat Only),1 can (140 g) yields,230,Non Vegetarian,Chicken,1.0,10.12,31.62
+50,"Chicken Or Turkey, Noodles And Vegetables (mixture)",1 cup,188,Non Vegetarian,Chicken,22.06,4.08,15.26
+51,Fried Chicken Drumstick No Coating,"1 small (yield after cooking, bone and skin removed)",62,Non Vegetarian,Chicken,0.0,2.53,9.29
+52,Chicken Or Turkey And Noodles With Gravy (mixture),1 cup,307,Non Vegetarian,Chicken,27.33,12.75,19.44
+53,Baked Or Fried Coated Chicken Breast With Skin,1/2 small,313,Non Vegetarian,Chicken,11.38,15.92,29.36
+54,Baked Or Fried Coated Chicken Thigh With Skin (skin/coating Eaten),1 small,211,Non Vegetarian,Chicken,7.49,12.58,16.03
+55,Smoked Chicken Breast,1 slice,28,Non Vegetarian,Chicken,0.41,0.29,6.17
+56,Stewed Chicken Breast,100 g,150,Non Vegetarian,Chicken,0.0,3.0,28.74
+57,Fried Chicken No Coating,100 g,260,Non Vegetarian,Chicken,0.0,15.35,28.62
+58,Roasted Grilled Or Baked Chicken Breast,100 g,164,Non Vegetarian,Chicken,0.0,3.54,30.76
+59,"Chicken Breast Meat (fried, Cooked)",1/2 breast,161,Non Vegetarian,Chicken,0.44,4.05,28.76
+60,Chicken Drumstick,1 serving,198,Non Vegetarian,Chicken,8.2,3.9,15.3
+61,Deli Chicken Or Turkey Loaf,1 slice (28 g),43,Non Vegetarian,Chicken,0.48,2.04,5.33
+62,Rotisserie Chicken,100 g,159,Non Vegetarian,Chicken,2.0,7.0,22.0
+63,Chicken Skewers,1 skewer,127,Non Vegetarian,Chicken,0.69,7.04,14.21
+64,Coffee (brewed From Grounds),1 cup (240 ml),2,Vegetarian,Coffee,0.0,0.05,0.28
+65,Coffee With Milk,1 coffee cup (180 ml),6,Vegetarian,Coffee,0.84,0.15,0.33
+66,Coffee With Skim Milk,1 coffee cup (180 ml),5,Vegetarian,Coffee,0.85,0.02,0.34
+67,Instant Coffee,100 ml,0,Vegetarian,Coffee,0.0,0.0,0.0
+68,Gold Blend,1 cup (200 ml),2,Vegetarian,Coffee,0.09,0.05,0.28
+69,Americano Coffee,1 mug (240 ml),2,Vegetarian,Coffee,0.09,0.05,0.28
+70,Decaffeinated Coffee,1 mug (240 ml),2,Vegetarian,Coffee,0.24,0.0,0.24
+71,Coffee With Whitener And Low Calorie Sweetener (dry Instant Powder),"1 tsp, dry",9,Vegetarian,Coffee,1.02,0.49,0.03
+72,Coffee,1 mug (240 ml),2,Vegetarian,Coffee,0.09,0.05,0.28
+73,Coffee With Milk And Sugar,1 coffee cup (180 ml),30,Vegetarian,Coffee,7.14,0.14,0.31
+74,Coffee With Cream,1 coffee cup (180 ml),26,Vegetarian,Coffee,2.91,1.47,0.39
+75,Instant Coffee (made From Powdered),1 mug (240 ml),5,Vegetarian,Coffee,0.9,0.0,0.26
+76,Espresso Coffee,1 espresso cup (60 ml),1,Vegetarian,Coffee,0.0,0.11,0.07
+77,Cremora Coffee Creamer,1 serving (8 g),43,Vegetarian,Coffee,4.7,1.5,0.1
+78,Cappuccino,1 mug (240 ml),74,Vegetarian,Coffee,5.81,3.98,4.08
+79,Instant Coffee With Whitener And Low Calorie Sweetener (powdered Mix),1 coffee cup (180 ml),30,Vegetarian,Coffee,8.59,1.59,1.07
+80,Instant Cappuccino,1 sachet (18 g),74,Vegetarian,Coffee,12.0,2.1,2.1
+81,Mild 3 In 1 Coffee,1 sachet (25 g),110,Vegetarian,Coffee,21.0,2.6,0.5
+82,Iced Coffee,1 coffee cup (180 ml),4,Vegetarian,Coffee,0.67,0.01,0.19
+83,Hazelnut Latte,1 serving,213,Vegetarian,Coffee,28.0,0.3,7.4
+84,Salted Caramel Cappucino,1 sachet (18 g),79,Vegetarian,Coffee,13.0,2.1,1.5
+85,Ricoffy,1 serving (2.7 g),10,Vegetarian,Coffee,2.0,0.0,0.2
+86,Skinny Cafe Latte,1 cup (250 ml),77,Vegetarian,Coffee,10.0,0.3,8.3
+87,Creamy Coffee Candy With Cocoa Filling,1 serving (4.2 g),13,Vegetarian,Coffee,3.3,0.6,0.1
+88,Coffee And Cocoa (mocha) Powder (with Whitener And Low Calorie Sweetener),1 tsp dry,16,Vegetarian,Coffee,4.57,0.85,0.58
+89,Iced Coffee With Cream,1 coffee cup (180 ml),26,Vegetarian,Coffee,2.91,1.47,0.39
+90,Decaffeinated Espresso Coffee,1 coffee cup (180 ml),0,Vegetarian,Coffee,0.0,0.32,0.18
+91,Regular Coffee,1 mug (240 ml),2,Vegetarian,Coffee,0.09,0.05,0.28
+92,Vanilla Latte Instant,1 sachet (21.5 g),88,Vegetarian,Coffee,14.0,2.3,2.7
+93,Frappuccino,1 medium,293,Vegetarian,Coffee,42.85,9.57,9.42
+94,Coffee With Sugar,1 coffee cup (180 ml),29,Vegetarian,Coffee,7.12,0.01,0.19
+95,Friscochino,1 sachet (19 g),78,Vegetarian,Coffee,14.0,2.4,1.0
+96,"Instant Coffee (powder, Half The Caffeine)",1 tsp dry,3,Vegetarian,Coffee,0.64,0.0,0.13
+97,Decaffeinated Latte Coffee,1 medium,131,Vegetarian,Coffee,12.36,5.51,8.77
+98,"Coffee And Cocoa (mocha) (powder, Decaffeinated, With Whitener And Low Calorie Sweetener)",1 tsp dry,16,Vegetarian,Coffee,4.57,0.85,0.58
+99,Instant Mocha,1 serving (18 g),75,Vegetarian,Coffee,13.5,1.4,1.9
+100,"Coffee (espresso Brewed, Decaffeinated)",100 g,0,Vegetarian,Coffee,0.0,0.18,0.1
+101,"Instant Coffee (dry Powder, With Whitener And Sugar)","1 tsp, dry",15,Vegetarian,Coffee,2.58,0.48,0.13
+102,Coffee Frappuccino (grande),1 serving (473 ml),240,Vegetarian,Coffee,50.0,3.0,3.0
+103,Low Fat Cappuccino Flavoured Milk,1 serving (250 ml),120,Vegetarian,Coffee,18.0,2.3,7.5
+104,Mocha Coffee,1 medium,394,Vegetarian,Coffee,66.97,9.14,10.94
+105,Decaffeinated Coffee (made From Ground),1 mug (240 ml),0,Vegetarian,Coffee,0.0,0.0,0.24
+106,Pre Lightened Presweetened Coffee With Sugar,1 vending machine cup,50,Vegetarian,Coffee,9.13,1.42,0.37
+107,Irish Coffee,1 mug (240 ml),205,Vegetarian,Coffee,4.71,10.43,0.74
+108,Presweetened With Sugar Coffee,1 mug (240 ml),38,Vegetarian,Coffee,9.53,0.0,0.26
+109,Coconut Cream,1 serving (150 ml),205,Vegetarian,Coffee,2.0,21.3,1.6
+110,Keto Coffee,1 cup,251,Vegetarian,Coffee,0.63,27.53,0.62
+111,Flat White,1 coffee cup (180 ml),58,Vegetarian,Coffee,4.35,3.15,3.2
+112,Nonfat Latte Coffee,1 medium,94,Vegetarian,Coffee,12.65,0.73,9.06
+113,Chococino,1 pod (240 ml),151,Vegetarian,Coffee,19.8,5.4,4.9
+114,Toffee Coffee Flavoured Instant Pudding,1 serving (10 g),28,Vegetarian,Coffee,7.0,0.2,0.0
+115,"Coffee Substitute (cereal Grain Powder, With Whole Milk)",100 g,65,Vegetarian,Coffee,5.6,2.06,3.3
+116,Latte Coffee,1 medium,135,Vegetarian,Coffee,12.36,5.51,8.81
+117,"Coffee Substitute (cereal Grain Powder, With Water)",1 cup (240 ml),14,Vegetarian,Coffee,3.12,0.1,0.24
+118,Coffee (instant),100 g,2,Vegetarian,Coffee,0.34,0.0,0.1
+119,"Instant Coffee And Cocoa (mocha) With Whitener, Presweetened (mix, Dry Powder)","1 tsp, dry",16,Vegetarian,Coffee,2.52,0.54,0.18
+120,Chai Latte,1 serving (25 g),106,Vegetarian,Coffee,19.5,2.4,1.7
+121,Green Tea Latte,1 cup,178,Vegetarian,Coffee,26.15,5.86,5.8
+122,Kit Kat Caramelized Hazelnut,100 g,519,Vegetarian,Coffee,57.0,28.1,7.8
+123,"Coffee (cappuccino Flavor Powder, Instant, With Sugar)",1 serving 1 (57 g) envelope,231,Vegetarian,Coffee,48.99,3.17,1.77
+124,Caffe Macchiato,1 espresso cup (60 ml),10,Vegetarian,Coffee,0.67,0.56,0.53
+125,Iced Coffee Vanilla,1 bottle (300 ml),225,Vegetarian,Coffee,29.0,3.0,12.0
+126,Mocha Chocca,1 serving,173,Vegetarian,Coffee,29.6,2.07,3.7
+127,Buckwheat & Hazelnut Coffee Bar,100 g,356,Vegetarian,Coffee,51.0,17.7,11.5
+128,Cappuccino Unsweetened,1 serving (12.5 g),60,Vegetarian,Coffee,6.0,3.0,1.9
+129,Cooked Lentils,1 cup,323,Vegetarian,Dal,36.71,13.25,16.44
+130,Lentils,100 g,353,Vegetarian,Dal,60.08,1.06,25.8
+131,Arhar Dal,1 serving (110 g),206,Vegetarian,Dal,32.73,3.39,12.56
+132,Dal Palak,100 g,116,Vegetarian,Dal,16.84,3.03,6.53
+133,Dal Makhani,100 g,181,Vegetarian,Dal,20.49,8.77,6.78
+134,Dal Vada,1 piece,92,Vegetarian,Dal,6.44,6.69,1.98
+135,Moong Dal,1 cup,234,Vegetarian,Dal,40.44,1.4,16.16
+136,Dal Paratha,1 piece,151,Vegetarian,Dal,21.41,5.53,3.54
+137,Masoor Dal,1 cup,347,Vegetarian,Dal,55.99,6.16,18.89
+138,Dal,1 cup,198,Vegetarian,Dal,26.18,6.32,10.36
+139,Dal Dhokli,1 serving (150 g),330,Vegetarian,Dal,52.38,8.7,12.29
+140,Chana Dal,100 g,160,Vegetarian,Dal,26.49,2.14,9.98
+141,Moong Dal Chilla,1 piece,144,Vegetarian,Dal,22.41,3.21,7.86
+142,"Lentils (mature Seeds, With Salt, Cooked, Boiled)",1 cup,230,Vegetarian,Dal,39.86,0.75,17.86
+143,Daliya,100 g,152,Vegetarian,Dal,27.7,3.41,5.03
+144,Curry Dhal Soup,100 g,82,Vegetarian,Dal,8.0,2.8,3.8
+145,Toor Dal,1 cup,296,Vegetarian,Dal,45.35,8.34,14.23
+146,Paneer Dosa,1 piece,174,Vegetarian,Dosa,28.43,4.61,7.07
+147,Plain Dosa,1 dosa,106,Vegetarian,Dosa,21.24,1.04,2.51
+148,Rava Dosa,1 piece,143,Vegetarian,Dosa,22.95,4.47,3.63
+149,Masala Dosa,1 dosa,160,Vegetarian,Dosa,23.24,6.21,3.19
+150,Moong Dal Dosa,1 piece,109,Vegetarian,Dosa,18.46,2.11,4.49
+151,Neer Dosa,1 piece,76,Vegetarian,Dosa,16.33,0.33,1.36
+152,Ragi Dosa,1 piece,137,Vegetarian,Dosa,23.94,3.22,3.95
+153,Wheat Dosa,1 piece,107,Vegetarian,Dosa,20.58,1.14,3.42
+154,"Scrambled Egg (whole, Cooked)",1 large,101,Non Vegetarian,Egg,1.34,7.45,6.76
+155,Boiled Egg,1 large,77,Non Vegetarian,Egg,0.56,5.28,6.26
+156,Scrambled Egg,2 eggs,199,Non Vegetarian,Egg,1.96,15.21,13.01
+157,Soft Boiled Egg,1 medium,68,Non Vegetarian,Egg,0.49,4.65,5.51
+158,Fried Egg With Fat,1 large,89,Non Vegetarian,Egg,0.43,6.76,6.24
+159,Egg (whole),1 large,74,Non Vegetarian,Egg,0.38,4.97,6.29
+160,Egg Omelette Or Scrambled Egg With Cheese,1 large,140,Non Vegetarian,Egg,2.23,10.37,9.15
+161,Egg Bhurji,1 cup,198,Non Vegetarian,Egg,15.18,12.05,9.01
+162,Poached Egg (with Salt),1 medium,64,Non Vegetarian,Egg,0.34,4.36,5.51
+163,Egg Omelette Or Scrambled Egg With Cheese And Ham Or Bacon,1 large,152,Non Vegetarian,Egg,1.97,11.15,10.63
+164,"Egg Omelette Or Scrambled Egg With Chilli, Cheese, Tomatoes And Beans",1 large,155,Non Vegetarian,Egg,3.75,10.89,10.2
+165,Egg Muffin,1 medium,198,Non Vegetarian,Egg,1.5,14.31,15.11
+166,Fried Egg Without Fat,1 large,73,Non Vegetarian,Egg,0.38,4.93,6.24
+167,Egg White,1 large,17,Non Vegetarian,Egg,0.24,0.06,3.6
+168,Baked Egg (fat Not Added In Cooking),1 large,73,Non Vegetarian,Egg,0.38,4.95,6.26
+169,Creamed Egg,1 extra large,229,Non Vegetarian,Egg,8.54,16.22,11.8
+170,Cooked Egg,1 small,62,Non Vegetarian,Egg,0.47,4.52,4.55
+171,Eggs Benedict,1 large,428,Non Vegetarian,Egg,12.9,33.48,18.54
+172,Poached Egg,1 large,74,Non Vegetarian,Egg,0.38,4.95,6.26
+173,Fried Egg,1 large,92,Non Vegetarian,Egg,0.4,7.04,6.27
+174,Egg Puff,1 puff,394,Non Vegetarian,Egg,31.12,26.5,8.4
+175,Egg Omelette Or Scrambled Egg (fat Not Added In Cooking),1 large,78,Non Vegetarian,Egg,1.25,5.02,6.49
+176,Egg,1 large,74,Non Vegetarian,Egg,0.38,4.97,6.29
+177,Egg Substitute (powder),100 g,444,Non Vegetarian,Egg,21.8,13.0,55.5
+178,Egg Omelette Or Scrambled Egg (fat Added In Cooking),1 large,94,Non Vegetarian,Egg,1.3,6.74,6.49
+179,Turkey Egg,1 egg,135,Non Vegetarian,Egg,0.91,2.87,10.81
+180,Egg Omelette Or Scrambled Egg With Sausage And Mushrooms,1 extra large,155,Non Vegetarian,Egg,1.84,11.51,10.26
+181,Egg Salad,1 cup,706,Non Vegetarian,Egg,4.28,67.18,20.42
+182,Egg Omelette,1 large,93,Non Vegetarian,Egg,0.42,7.33,6.48
+183,"Egg, Cheese And Beef On English Muffin",1 sandwich (148 g),422,Non Vegetarian,Egg,31.77,22.61,22.05
+184,Quail Egg,1 egg,14,Non Vegetarian,Egg,0.04,1.0,1.17
+185,Scrambled Egg Made From Dry Eggs,1 cup,454,Non Vegetarian,Egg,2.63,40.23,19.71
+186,Egg Omelette Or Scrambled Egg With Vegetables,1 large,106,Non Vegetarian,Egg,2.38,7.34,7.22
+187,"Egg Whole (dried, Powder, Glucose Reduced)",1 tbsp,53,Non Vegetarian,Egg,0.63,0.01,11.54
+188,Egg Substitute (frozen Or Liquid),1 cup of cooked,254,Non Vegetarian,Egg,1.64,14.45,27.62
+189,Egg Substitute (liquid),1 cup,211,Non Vegetarian,Egg,1.61,8.31,30.12
+190,Goose Egg,1 egg,266,Non Vegetarian,Egg,1.94,19.11,19.97
+191,Egg Yolk,1 large,55,Non Vegetarian,Egg,0.61,4.51,2.7
+192,Egg Omelette Or Scrambled Egg With Sausage,1 medium,181,Non Vegetarian,Egg,1.29,14.26,11.13
+193,Egg Whole (frozen),1 oz,42,Non Vegetarian,Egg,0.3,0.89,3.39
+194,Egg Whole (dried),1 cup of sifted,505,Non Vegetarian,Egg,4.21,34.81,40.25
+195,"Egg, Cheese And Ham On English Muffin",1 sandwich,307,Non Vegetarian,Egg,25.77,13.38,20.05
+196,Fried Egg Sandwich,1 sandwich,226,Non Vegetarian,Egg,26.18,8.57,10.03
+197,Egg Roll With Beef And/or Pork,1 egg roll,113,Non Vegetarian,Egg,9.16,6.2,5.0
+198,Egg Omelette Or Scrambled Egg With Dark Green Vegetables,1 large,101,Non Vegetarian,Egg,2.18,7.01,7.12
+199,Egg Yolk (dried),1 cup of sifted,446,Non Vegetarian,Egg,2.41,37.39,22.95
+200,Egg White (frozen),100 g,47,Non Vegetarian,Egg,1.05,0.0,9.8
+201,Scrambled Egg (liquid Mixture),1 cup of cooked (made from 15 tablespoons of uncooked liquid mixture),212,Non Vegetarian,Egg,4.05,10.98,22.85
+202,"Egg, Cheese And Sausage On English Muffin",1 sandwich,466,Non Vegetarian,Egg,29.24,29.78,19.8
+203,Meatless Egg Roll,1 egg roll,100,Non Vegetarian,Egg,9.73,5.8,2.6
+204,"Egg, Cheese And Bacon On English Muffin",1 sandwich,382,Non Vegetarian,Egg,30.12,19.36,20.83
+205,Canned Quail Egg,1 egg,14,Non Vegetarian,Egg,0.04,0.99,1.16
+206,Egg White (dried),100 g,382,Non Vegetarian,Egg,7.8,0.0,81.1
+207,"Egg Yolk (salted, Frozen)",100 g,274,Non Vegetarian,Egg,1.6,7.03,14.0
+208,Egg Dosa,1 piece,186,Non Vegetarian,Egg,21.24,7.35,9.2
+209,Baked Egg (fat Added In Cooking),1 large,127,Non Vegetarian,Egg,0.57,10.35,7.52
+210,Egg Omelette Or Scrambled Egg With Beef,1 large,136,Non Vegetarian,Egg,2.24,9.42,9.91
+211,Eggnog,1 cup,343,Non Vegetarian,Egg,34.39,19.0,9.68
+212,Hard Boiled Egg,1 large,78,Non Vegetarian,Egg,0.56,5.3,6.29
+213,Egg Omelette Or Scrambled Egg With Hot Dogs,1 large,177,Non Vegetarian,Egg,2.42,13.86,10.17
+214,"Egg, Cheese And Steak On Bagel",1 sandwich,661,Non Vegetarian,Egg,57.97,30.28,37.98
+215,Egg Omelette Or Scrambled Egg,1 large,98,Non Vegetarian,Egg,1.15,7.14,6.81
+216,Cooked Egg Yolk,1 large,55,Non Vegetarian,Egg,0.61,4.49,2.69
+217,Baked Egg,1 large,127,Non Vegetarian,Egg,0.57,10.35,7.52
+218,"Egg Omelette Or Scrambled Egg With Cheese, Ham Or Bacon And Tomatoes",1 large,160,Non Vegetarian,Egg,3.02,11.43,11.09
+219,Cooked Egg White,1 large,17,Non Vegetarian,Egg,0.24,0.06,3.58
+220,"Egg Whole (dried, Flakes, Glucose Reduced)",100 g,351,Non Vegetarian,Egg,4.17,0.04,76.92
+221,Egg Omelette Or Scrambled Egg With Chicken,1 large,117,Non Vegetarian,Egg,1.11,6.84,11.95
+222,Egg Tart,1 tart,225,Non Vegetarian,Egg,22.23,13.46,3.8
+223,"Egg, Cheese And Ham On Bagel",1 sandwich,597,Non Vegetarian,Egg,57.18,27.14,30.28
+224,Ice Cream,1 cup,267,Vegetarian,Ice Cream,32.45,14.26,4.68
+225,Vanilla Ice Creams,1/2 cup,145,Vegetarian,Ice Cream,16.99,7.92,2.52
+226,Soft Serve Ice Cream,1 cup,384,Vegetarian,Ice Cream,38.41,22.49,7.09
+227,Rich Chocolate Ice Cream,1 cup,377,Vegetarian,Ice Cream,30.71,25.13,6.99
+228,Soft Serve Light Ice Cream Cone,1 small,296,Vegetarian,Ice Cream,43.54,11.05,7.03
+229,Ice Cream Cone,1 cone and single dip (or 1 small cone),170,Vegetarian,Ice Cream,22.82,7.91,3.06
+230,Ice Cream Sundae (with Whipped Cream),1 sundae,424,Vegetarian,Ice Cream,49.73,23.33,5.84
+231,Ice Cream Bar Or Stick,1 bar (90 ml),113,Vegetarian,Ice Cream,13.22,6.16,1.96
+232,Light Chocolate Ice Creams,100 g,199,Vegetarian,Ice Cream,29.04,7.19,5.0
+233,Rich Vanilla Ice Creams,1/2 cup,266,Vegetarian,Ice Cream,23.85,17.33,3.74
+234,French Vanilla Ice Creams (soft Serve),1/2 cup (120 ml),191,Vegetarian,Ice Cream,19.09,11.18,3.53
+235,Thick Chocolate Covering Rich Chocolate Ice Cream Bar Or Stick,1 bar,282,Vegetarian,Ice Cream,28.45,18.91,3.58
+236,Vanilla Ice Creams (fat Free),100 g,138,Vegetarian,Ice Cream,30.06,0.0,4.48
+237,Ice Cream Sundae With Fruit Topping (with Whipped Cream),1 sundae,386,Vegetarian,Ice Cream,55.92,17.94,3.65
+238,Light Vanilla Ice Creams (no Added Sugar),1 half cup serving,105,Vegetarian,Ice Cream,14.57,5.07,2.7
+239,"Chocolate Coated Vanilla Ice Cream (light, No Sugar Added)",100 g,226,Vegetarian,Ice Cream,27.49,10.1,6.4
+240,Ice Cream Cones (cake Or Wafer Type),1 cone,17,Vegetarian,Ice Cream,3.16,0.28,0.32
+241,Chocolate Covered Or Dipped Ice Cream Cone (flavors Other Than Chocolate),1 cone and single dip,187,Vegetarian,Ice Cream,24.05,9.61,3.03
+242,Rich Ice Cream (flavors Other Than Chocolate),1 cup,369,Vegetarian,Ice Cream,32.99,23.98,5.18
+243,Light Vanilla Ice Creams,1 half cup serving,125,Vegetarian,Ice Cream,19.61,3.67,3.63
+244,No Sugar Added Fat Free Chocolate Ice Cream,1 cup,153,Vegetarian,Ice Cream,34.85,2.62,6.12
+245,Chocolate Ice Creams,1/2 cup (120 ml),143,Vegetarian,Ice Cream,18.61,7.26,2.51
+246,Light Vanilla Ice Creams (soft Serve),1 half cup serving,111,Vegetarian,Ice Cream,19.18,2.29,4.31
+247,Ice Cream Sundae With Topping (with Whipped Cream),1 sundae,403,Vegetarian,Ice Cream,59.4,18.89,3.63
+248,Ice Cream Cone (flavors Other Than Chocolate),1 cone and single dip (or 1 small cone),166,Vegetarian,Ice Cream,20.88,8.4,2.93
+249,Light Chocolate Ice Creams (no Added Sugar),1 half cup serving,109,Vegetarian,Ice Cream,18.29,4.13,2.55
+250,Light Ice Cream Cone (flavors Other Than Chocolate),1 cone and single dip (or 1 small cone),115,Vegetarian,Ice Cream,20.44,2.29,4.02
+251,Ice Cream Cone With Nuts (flavors Other Than Chocolate),1 cone,204,Vegetarian,Ice Cream,20.01,12.66,4.61
+252,Thick Chocolate Covering Rich Ice Cream Bar Or Stick,1 bar,271,Vegetarian,Ice Cream,27.07,16.39,3.84
+253,Chocolate Covered Or Dipped Chocolate Ice Cream Cone,1 cone,190,Vegetarian,Ice Cream,26.83,8.78,3.18
+254,Light Ice Cream Cone,1 cone and single dip (or 1 small cone),122,Vegetarian,Ice Cream,21.89,2.45,3.81
+255,Grilled Fish,1 fillet (16 cm x 7.5 cm x 1 cm),123,Non Vegetarian,Fish,0.31,1.33,25.53
+256,Light & Crispy Lemon Fish,1 serving (83 g),148,Non Vegetarian,Fish,12.5,0.9,9.5
+257,Fried Battered Fish,1 fillet (16 cm x 9 cm x 1 cm),267,Non Vegetarian,Fish,8.99,15.24,22.41
+258,Crumbed Hake Portions,1 serving (125 g),146,Non Vegetarian,Fish,9.3,6.9,15.3
+259,Steamed Fish,100 g,139,Non Vegetarian,Fish,0.0,2.9,26.34
+260,Cooked Fish,1 fillet (16 cm x 7.5 cm x 1 cm),127,Non Vegetarian,Fish,0.0,1.38,26.33
+261,Fried Fish,100 g,210,Non Vegetarian,Fish,7.81,11.36,18.29
+262,Oven Crisp,100 g,185,Non Vegetarian,Fish,14.0,0.0,20.0
+263,Baked Breaded Or Battered Fish,1 fillet (16 cm x 9 cm x 1 cm),268,Non Vegetarian,Fish,11.51,12.35,26.1
+264,Hake Medallions,1 piece (80 g),53,Non Vegetarian,Fish,0.7,0.1,12.0
+265,Yellowtail (fish) (mixed Species),1/2 fillet,273,Non Vegetarian,Fish,0.0,2.39,43.27
+266,Baked Or Grilled Cod,1 fillet (15 cm x 6.5 cm x 1 cm),113,Non Vegetarian,Fish,0.38,3.34,19.45
+267,Pilchards In Tomato Sauce,100 g,145,Non Vegetarian,Fish,0.6,6.8,20.95
+268,Whiting (fish) (mixed Species),1 fillet,83,Non Vegetarian,Fish,0.0,1.21,16.85
+269,Baked Or Grilled Tuna,100 g,153,Non Vegetarian,Fish,0.41,3.96,27.3
+270,Country Fry Hake Fillets,100 g,159,Non Vegetarian,Fish,5.0,9.3,14.2
+271,Tuna In Water (canned),100 g,116,Non Vegetarian,Fish,0.0,0.82,25.51
+272,Sushi,1 piece,37,Non Vegetarian,Fish,7.77,0.11,1.12
+273,Atlantic Ocean Perch,1 fillet,60,Non Vegetarian,Fish,0.0,1.04,11.92
+274,Salted Mackerel,100 g,305,Non Vegetarian,Fish,0.0,25.1,18.5
+275,Fish,100 g,84,Non Vegetarian,Fish,0.0,0.92,17.76
+276,Haddock (fish),1 fillet,168,Non Vegetarian,Fish,0.0,1.39,36.5
+277,Shark (mixed Species),100 g,130,Non Vegetarian,Fish,0.0,4.51,20.98
+278,Baked Or Grilled Fish,1 fillet (16 cm x 7.5 cm x 1 cm),142,Non Vegetarian,Fish,0.37,3.89,24.79
+279,Fish Curry,1 cup,241,Non Vegetarian,Fish,4.57,11.02,29.76
+280,Sardines,1 small (7 cm x 1.5 cm x 0.5 cm),10,Non Vegetarian,Fish,0.0,0.57,1.23
+281,Fried Battered Catfish,1 fillet (13 cm x 6.5 cm x 1 cm),182,Non Vegetarian,Fish,5.03,12.8,11.12
+282,Baked Or Grilled Pike,1 fillet (16 cm x 9 cm x 1 cm),164,Non Vegetarian,Fish,0.52,4.65,28.56
+283,Tilefish,1/2 fillet,185,Non Vegetarian,Fish,0.0,0.85,33.78
+284,Marinated Fish (ceviche),1 cup,173,Non Vegetarian,Fish,9.2,1.97,28.75
+285,Pickled Fish,100 g,84,Non Vegetarian,Fish,4.2,3.0,11.0
+286,"Chum Salmon (drained Solids With Bone, Without Salt, Canned)",1 can,520,Non Vegetarian,Fish,0.0,5.48,79.08
+287,Seafood Souffle,1 cup,245,Non Vegetarian,Fish,8.84,15.49,16.89
+288,Pumpkin Seed Sunfish,100 g,89,Non Vegetarian,Fish,0.0,0.14,19.4
+289,Fried Floured Or Breaded Flounder,1 fillet (17 cm x 10 cm x 1 cm),341,Non Vegetarian,Fish,12.79,17.62,31.15
+290,Skipjack Tuna (fish),1/2 fillet,204,Non Vegetarian,Fish,0.0,0.65,43.56
+291,Monkfish,100 g,76,Non Vegetarian,Fish,0.0,0.34,14.48
+292,Surimi (fish),100 g,99,Non Vegetarian,Fish,6.85,0.9,15.18
+293,Rainbow Smelt (fish),100 g,97,Non Vegetarian,Fish,0.0,2.42,17.63
+294,Chum Salmon,100 g,120,Non Vegetarian,Fish,0.0,0.84,20.14
+295,Dried And Salted Atlantic Cod,1 piece (13.5 cm x 4 cm x 1.5 cm),232,Non Vegetarian,Fish,0.0,1.9,50.26
+296,Smoked Salmon,100 g,117,Non Vegetarian,Fish,0.0,4.32,18.28
+297,Ocean Pout (fish),1/2 fillet,139,Non Vegetarian,Fish,0.0,0.56,29.29
+298,Canned Salmon,100 g,144,Non Vegetarian,Fish,0.0,6.28,20.57
+299,Baked Or Grilled Haddock,1 fillet (17 cm x 10 cm x 1 cm),197,Non Vegetarian,Fish,0.74,5.71,34.0
+300,Spot (fish),1 fillet,79,Non Vegetarian,Fish,0.0,0.93,11.85
+301,Catfish,100 g,240,Non Vegetarian,Fish,8.54,14.53,17.57
+302,Atlantic Wolfish,100 g,96,Non Vegetarian,Fish,0.0,0.36,17.5
+303,Baked Or Grilled Flounder,1 fillet (16 cm x 9 cm x 2 cm),173,Non Vegetarian,Fish,0.53,5.51,28.6
+304,Sablefish,1/2 fillet,376,Non Vegetarian,Fish,0.0,6.18,25.88
+305,Pickled Atlantic Herring,100 g,262,Non Vegetarian,Fish,9.64,18.0,14.19
+306,Cream Style Salmon Soup,1 cup,258,Non Vegetarian,Fish,6.4,12.62,27.95
+307,Dolphinfish,1 fillet,173,Non Vegetarian,Fish,0.0,0.38,37.74
+308,Sturgeon (fish) (mixed Species),100 g,105,Non Vegetarian,Fish,0.0,4.04,16.14
+309,Smoked Fish,1 cup of flaked,167,Non Vegetarian,Fish,0.0,6.45,25.49
+310,Milkfish,100 g,148,Non Vegetarian,Fish,0.0,1.66,20.53
+311,King Mackerel,100 g,105,Non Vegetarian,Fish,0.0,0.36,20.28
+312,Chinook Salmon,1/2 fillet,354,Non Vegetarian,Fish,0.0,20.65,39.46
+313,Trout (mixed Species),1 fillet,117,Non Vegetarian,Fish,0.0,5.22,16.41
+314,Perch Fish (mixed Species),100 g,91,Non Vegetarian,Fish,0.0,0.92,19.39
+315,Pacific Rockfish (mixed Species),1 fillet,180,Non Vegetarian,Fish,0.0,3.0,35.81
+316,Channel Catfish (farmed),1 fillet,215,Non Vegetarian,Fish,0.0,12.07,24.72
+317,Rainbow Trout (farmed),1 fillet,109,Non Vegetarian,Fish,0.0,4.27,16.49
+318,Fried Battered Salmon,1 cup of flaked,309,Non Vegetarian,Fish,9.13,18.4,25.27
+319,Canned Fish,"1 cup of drained, flaked",175,Non Vegetarian,Fish,0.0,3.49,33.63
+320,Atlantic Salmon (farmed),100 g,183,Non Vegetarian,Fish,0.0,2.18,19.9
+321,Gefilte Fish,1 piece with broth,77,Non Vegetarian,Fish,0.7,2.58,11.91
+322,Spanish Mackerel,1 fillet,260,Non Vegetarian,Fish,0.0,11.78,36.07
+323,Atlantic Pollock (fish),1/2 fillet,178,Non Vegetarian,Fish,0.0,1.89,37.52
+324,Seatrout (mixed Species),100 g,104,Non Vegetarian,Fish,0.0,1.01,16.74
+325,Sabudana Khichdi,100 g,199,Vegetarian,Khichdi,30.19,7.91,2.72
+326,Khichdi,1 cup of cooked,175,Vegetarian,Khichdi,34.28,1.78,6.12
+327,Minced Lamb Or Patty,100 g,281,Non Vegetarian,Mutton,0.0,19.49,24.54
+328,Mutton Chop,"1 small (112 g, with bone, raw) (yield after cooking, bone removed)",226,Non Vegetarian,Mutton,0.0,17.55,15.86
+329,Lamb Shoulder Chop (lean And Fat Eaten),"1 small (155 g, with bone, raw) (yield after cooking, bone removed)",274,Non Vegetarian,Mutton,0.0,19.8,22.32
+330,Mutton,100 g,292,Non Vegetarian,Mutton,0.0,20.77,24.32
+331,Lamb Or Mutton Loaf,1 small or thin slice,154,Non Vegetarian,Mutton,7.06,8.77,11.46
+332,Mutton Shoulder Chop,"1 small (155 g, with bone, raw) (yield after cooking, bone removed)",274,Non Vegetarian,Mutton,0.0,19.8,22.32
+333,Lamb Or Mutton Goulash,1 cup,311,Non Vegetarian,Mutton,8.37,15.84,32.52
+334,Lamb Curry,1 cup,257,Non Vegetarian,Mutton,3.71,13.83,28.23
+335,Lamb Hocks,100 g,241,Non Vegetarian,Mutton,0.0,13.35,28.13
+336,Lamb Ribs,"1 rib (yield after cooking, bone removed)",165,Non Vegetarian,Mutton,0.0,13.56,10.14
+337,Lamb Or Mutton Stew With Potatoes And Vegetables In Gravy,1 cup,249,Non Vegetarian,Mutton,27.06,5.8,22.13
+338,Button Mushroom,100 g,22,Non Vegetarian,Mutton,3.28,0.34,3.09
+339,Lamb Roast (lean Only Eaten),100 g,197,Non Vegetarian,Mutton,0.0,9.22,26.51
+340,Mutton Chop (lean And Fat Eaten),"1 small (112 g, with bone, raw) (yield after cooking, bone removed)",226,Non Vegetarian,Mutton,0.0,17.55,15.86
+341,White Button Mushrooms,100 g,22,Non Vegetarian,Mutton,3.3,0.2,3.1
+342,"Lamb Or Mutton Stew With Potatoes And Vegetables In Tomato Based Sauce (including Carrots, Broccoli, And/or Dark Green Leafy)",1 cup,249,Non Vegetarian,Mutton,30.49,4.76,20.99
+343,Lamb Or Mutton Stew With Vegetables In Gravy,1 cup,285,Non Vegetarian,Mutton,11.74,10.58,34.17
+344,"Lamb Or Mutton Stew With Vegetables In Gravy (including Carrots, Broccoli, And/or Dark Green Leafy, No Potatoes)",1 cup,302,Non Vegetarian,Mutton,16.1,10.53,34.47
+345,"Lamb Or Mutton, Rice And Vegetables In Gravy (mixture)",1 cup,267,Non Vegetarian,Mutton,35.13,6.27,17.54
+346,Button Mushrooms,100 g,24,Non Vegetarian,Mutton,1.8,0.3,2.6
+347,Lamb Or Mutton With Gravy (mixture),1 cup,320,Non Vegetarian,Mutton,5.1,13.18,42.99
+348,Lamb Or Mutton And Potatoes With Gravy (mixture),1 cup,244,Non Vegetarian,Mutton,25.6,8.04,17.19
+349,"Lamb Or Mutton, Rice And Vegetables In Gravy (including Carrots, Broccoli, And/or Dark Green Leafy)",1 cup,255,Non Vegetarian,Mutton,21.27,9.98,18.5
+350,Lamb Roast (lean And Fat Eaten),100 g,266,Non Vegetarian,Mutton,0.0,18.15,23.93
+351,Lamb Loin Chop,"1 small (112 g, with bone, raw) (yield after cooking, bone removed)",222,Non Vegetarian,Mutton,0.0,16.39,17.42
+352,Lamb Or Mutton And Potatoes With Tomato Based Sauce (mixture),1 serving (252 g),262,Non Vegetarian,Mutton,21.5,10.18,20.69
+353,Lamb Loin Chop (lean Only Eaten),"1 small (112 g, with bone, raw) (yield after cooking, bone and fat removed)",107,Non Vegetarian,Mutton,0.0,4.82,14.87
+354,Lamb Shoulder,100 g,275,Non Vegetarian,Mutton,0.0,19.89,22.42
+355,"Lamb Or Mutton, Rice And Vegetables In Tomato Based Sauce (including Carrots, Broccoli, And/or Dark Green Leafy, Mixture)",1 cup,247,Non Vegetarian,Mutton,33.24,5.72,15.37
+356,Mutton Style Curry Pie,1 pie (175 g),445,Non Vegetarian,Mutton,44.8,23.5,11.7
+357,Lamb Roast,1 thin slice (approx 7.5 cm dia x 0.3 cm),37,Non Vegetarian,Mutton,0.0,2.54,3.35
+358,Lamb Or Mutton Stew With Potatoes And Vegetables In Tomato Based Sauce,1 cup,239,Non Vegetarian,Mutton,28.07,4.81,20.87
+359,"Lamb Or Mutton Stew With Potatoes And Vegetables In Gravy (including Carrots, Broccoli, And/or Dark Green Leafy)",1 cup,260,Non Vegetarian,Mutton,29.46,5.75,22.23
+360,Bolognese,1 cup,281,Non Vegetarian,Mutton,20.94,16.09,16.28
+361,Lamb Ribs (lean Only Eaten),"1 rib (yield after cooking, bone and fat removed)",59,Non Vegetarian,Mutton,0.0,3.22,6.9
+362,Lamb Loin Chop (lean And Fat Eaten),"1 small (112 g, with bone, raw) (yield after cooking, bone removed)",222,Non Vegetarian,Mutton,0.0,16.39,17.42
+363,Lamb Shoulder Chop (lean Only Eaten),"1 small (156 g, with bone, raw) (yield after cooking, bone and fat removed)",145,Non Vegetarian,Mutton,0.0,7.69,17.81
+364,Mutton Biryani,1 cup,352,Non Vegetarian,Mutton,48.16,10.85,14.59
+365,Potato & Pea Curry With Garlic Naan,100 g,123,Vegetarian,Naan,15.0,5.2,3.5
+366,Cheese Naan,100 g,294,Vegetarian,Naan,35.51,12.3,9.94
+367,Phulka,1 medium (18 cm),103,Vegetarian,Naan,21.7,0.67,3.76
+368,Rumali Roti,1 piece,153,Vegetarian,Naan,26.07,3.42,4.07
+369,Indian Flatbread Naan,1 piece (1/4 25.5 cm dia),137,Vegetarian,Naan,18.8,5.1,3.74
+370,Naan Bread,1 naan (100 g),309,Vegetarian,Naan,49.0,7.8,8.5
+371,Low Carb Persian Naan,100 g,313,Vegetarian,Naan,10.0,17.0,29.7
+372,Paneer Roll,1 piece,225,Vegetarian,Paneer,34.66,6.64,7.22
+373,Shahi Paneer,1 cup,313,Vegetarian,Paneer,14.36,22.65,15.25
+374,Paneer Sandwich,1 sandwich,342,Vegetarian,Paneer,45.79,13.28,12.6
+375,Paneer Bhurji,1 cup,276,Vegetarian,Paneer,18.51,16.26,17.18
+376,Mutter Paneer,1 cup,350,Vegetarian,Paneer,24.01,20.5,19.26
+377,Paneer,1 serving (30 g),88,Vegetarian,Paneer,0.89,7.54,4.2
+378,Palak Paneer,1 cup,405,Vegetarian,Paneer,14.56,31.63,18.93
+379,Paneer Paratha,1 paratha,265,Vegetarian,Paneer,27.78,12.96,9.04
+380,Paneer Butter Masala,1 serving (200 g),423,Vegetarian,Paneer,17.66,33.31,15.36
+381,Paneer Dosa,1 piece,174,Vegetarian,Paneer,28.43,4.61,7.07
+382,Paneer Tikka,1 piece,40,Vegetarian,Paneer,3.1,1.46,3.94
+383,Chilli Paneer,1 cup,294,Vegetarian,Paneer,15.06,20.29,15.1
+384,Kadai Paneer,1 cup,280,Vegetarian,Paneer,15.21,20.29,12.37
+385,Plain Paratha,1 paratha,260,Vegetarian,Paratha,38.94,8.99,5.16
+386,Puff Paratha Spring Onion,1 serving (80 g),223,Vegetarian,Paratha,30.0,7.5,5.2
+387,Puff Paratha,1 serving (80 g),224,Vegetarian,Paratha,16.0,11.0,6.1
+388,Dal Paratha,1 piece,151,Vegetarian,Paratha,21.41,5.53,3.54
+389,Aloo Paratha,1 paratha,330,Vegetarian,Paratha,47.72,13.45,5.94
+390,Gobi Paratha,1 piece,318,Vegetarian,Paratha,42.83,14.25,6.26
+391,Mooli Paratha,1 piece,315,Vegetarian,Paratha,42.53,14.15,5.75
+392,Sattu Paratha,1 paratha,395,Vegetarian,Paratha,68.48,8.56,12.26
+393,Onion Paratha,1 piece,255,Vegetarian,Paratha,38.52,8.92,4.96
+394,Egg Paratha,1 piece,280,Vegetarian,Paratha,44.24,6.11,11.28
+395,Laccha Paratha,1 piece,254,Vegetarian,Paratha,37.39,9.65,4.19
+396,Bhakri,1 piece,177,Vegetarian,Paratha,25.39,6.99,4.32
+397,Matar Paratha,1 piece,165,Vegetarian,Paratha,27.45,3.75,6.7
+398,Methi Paratha,1 paratha,280,Vegetarian,Paratha,39.36,11.15,8.55
+399,Palak Paratha,1 piece,141,Vegetarian,Paratha,16.45,7.49,2.32
+400,Paneer Paratha,1 paratha,265,Vegetarian,Paratha,27.78,12.96,9.04
+401,Rumali Roti,1 piece,153,Vegetarian,Roti,26.07,3.42,4.07
+402,Whole Wheat Bread,1 regular slice,67,Vegetarian,Roti,12.26,1.07,2.37
+403,Chapatti Roti,1 roti (40 g),115,Vegetarian,Roti,18.0,4.0,3.0
+404,Jowar Roti,100 g,348,Vegetarian,Roti,72.88,2.31,10.68
+405,Plain White Roti,1 serving (96 g),242,Vegetarian,Roti,37.0,6.8,6.8
+406,Butter Roti,1 roti (75 g),271,Vegetarian,Roti,37.0,10.6,5.6
+407,Tandoori Roti,1 piece,155,Vegetarian,Roti,32.19,0.99,6.08
+408,Makki Ki Roti,1 piece,90,Vegetarian,Roti,13.82,3.38,1.7
+409,Missi Roti,1 piece,247,Vegetarian,Roti,46.07,3.65,10.57
+410,Bajra Roti,100 g,361,Vegetarian,Roti,66.8,5.01,11.92
+411,Whole Wheat Tortilla,1 tortilla,92,Vegetarian,Roti,19.54,0.45,3.36
+412,Whole Wheat Roti,1 serving (96 g),246,Vegetarian,Roti,35.0,8.4,6.5
+413,Roti,1 medium (18 cm),106,Vegetarian,Roti,22.32,0.52,3.84
+414,Wholemeal Bread,1 slice,128,Vegetarian,Roti,23.64,2.48,3.86
+415,Aloo Sabzi,100 g,96,Vegetarian,Sabzi,17.52,2.89,2.34
+416,Rajma Chawal,1 cup,316,Vegetarian,Sabzi,50.91,7.93,10.53
+417,Gatte Ki Sabzi,1 cup,275,Vegetarian,Sabzi,36.55,8.79,13.49
+418,Rajma,100 g,165,Vegetarian,Sabzi,19.77,7.08,7.04
+419,Baingan Bharta,1 serving (120 g),116,Vegetarian,Sabzi,15.09,6.33,2.03
+420,Bhindi Fry,1 cup,196,Vegetarian,Sabzi,12.73,16.03,3.53
+421,Bhindi,100 g,31,Vegetarian,Sabzi,7.03,0.1,2.0
+422,Arbi Sabzi,100 g,110,Vegetarian,Sabzi,21.13,2.94,2.13
+423,Roasted Chana,100 g,355,Vegetarian,Sabzi,58.58,6.26,18.64
+424,Chana Dal,100 g,160,Vegetarian,Sabzi,26.49,2.14,9.98
+425,Lauki Sabzi,1 cup,149,Vegetarian,Sabzi,18.41,8.47,4.06
+426,Aloo Baingan,1 cup,190,Vegetarian,Sabzi,25.41,10.2,4.41
+427,Chole,100 g,130,Vegetarian,Sabzi,17.37,5.37,3.61
+428,Bhindi Masala,1 serving (200 g),225,Vegetarian,Sabzi,27.02,12.79,5.99
+429,Chole Bhature,1 plate,426,Vegetarian,Sabzi,51.84,20.8,10.52
+430,Tinda Sabzi,100 g,85,Vegetarian,Sabzi,15.35,3.26,1.78
+431,Kala Chana,1 serving (110 g),180,Vegetarian,Sabzi,29.47,4.05,8.65
+432,Japanese Tea Biscuit,1 medium,19,Vegetarian,Tea,4.64,0.02,0.18
+433,Tropical Mango,100 ml,18,Vegetarian,Tea,4.0,0.1,0.5
+434,Herbal Tea,1 mug (240 ml),2,Vegetarian,Tea,0.47,0.0,0.0
+435,Tea Presweetened With Sugar,1 mug (240 ml),47,Vegetarian,Tea,12.51,0.0,0.02
+436,Tea Presweetened With Low Calorie Sweetener,1 teacup (180 ml),5,Vegetarian,Tea,1.25,0.0,0.04
+437,Tea With Milk And Sugar,1 teacup (180 ml),30,Vegetarian,Tea,4.97,0.82,0.93
+438,Decaffeinated Tea Presweetened With Sugar,1 mug (240 ml),47,Vegetarian,Tea,12.56,0.0,0.0
+439,Chamomile Tea,1 mug (240 ml),2,Vegetarian,Tea,0.47,0.0,0.0
+440,"Herbal Tea (other Than Chamomile, Brewed)",1 cup (240 ml),2,Vegetarian,Tea,0.47,0.0,0.0
+441,Iced Tea,1 cup (240 ml),90,Vegetarian,Tea,23.44,0.0,0.02
+442,Tea (brewed),1 cup (240 ml),2,Vegetarian,Tea,0.71,0.0,0.0
+443,Tea With Milk,1 teacup (180 ml),17,Vegetarian,Tea,1.51,0.84,0.95
+444,Black Tea,1 mug (240 ml),2,Vegetarian,Tea,0.47,0.0,0.0
+445,Raspberry,100 ml,31,Vegetarian,Tea,7.5,0.0,0.0
+446,Tea Unsweetened,1 mug (240 ml),2,Vegetarian,Tea,0.76,0.0,0.02
+447,Ginger Tea,1 teacup (180 ml),5,Vegetarian,Tea,1.16,0.04,0.07
+448,Long Island Iced Tea,1 drink (150 ml),138,Vegetarian,Tea,9.87,0.06,0.12
+449,Instant Tea Presweetened (made From Powdered),1 mug (240 ml),83,Vegetarian,Tea,20.5,0.14,0.02
+450,"Tea (instant Powder, Unsweetened, Prepared)",1 cup (240 ml),2,Vegetarian,Tea,0.4,0.0,0.14
+451,Leaf Tea Unsweetened,1 mug (240 ml),2,Vegetarian,Tea,0.71,0.0,0.0
+452,Instant Honeyed Ginger Tea,1 packet (18 g),48,Vegetarian,Tea,12.0,0.0,0.0
+453,Tea With Skimmed Milk,1 teacup (180 ml),10,Vegetarian,Tea,1.6,0.04,0.99
+454,Chai,1 teacup (180 ml),54,Vegetarian,Tea,10.9,0.94,0.94
+455,Sugar Free Ice Tea,100 ml,5,Vegetarian,Tea,1.0,0.0,0.5
+456,Herbal Tea Presweetened With Low Calorie Sweetener,1 mug (240 ml),7,Vegetarian,Tea,1.35,0.0,0.02
+457,"Tea (lemon Flavoured, Instant Powder, With Sodium Saccharin)",1 tsp,4,Vegetarian,Tea,1.02,0.01,0.04
+458,Earl Grey Tea,1 teacup (180 ml),1,Vegetarian,Tea,0.36,0.0,0.0
+459,"Tea (lemon Flavoured, Without Added Ascorbic Acid, Instant Powder, Decaffeinated, Sweetened With Sugar)",1 serving (3 heaping tsp),89,Vegetarian,Tea,22.67,0.17,0.03
+460,Chai Tea Latte,1 serving (27 g),80,Vegetarian,Tea,14.3,2.3,1.3
+461,Tea With Lemon,1 teacup (180 ml),3,Vegetarian,Tea,0.82,0.0,0.18
+462,Instant Tea Presweetened With Sugar (made From Powdered),1 mug (240 ml),24,Vegetarian,Tea,5.95,0.0,0.19
+463,"Tea (lemon Flavoured, Instant Powder, With Sodium Saccharin, Prepated)",1 cup (240 ml),5,Vegetarian,Tea,1.04,0.0,0.05
+464,Tea,1 serving (250 ml),2,Vegetarian,Tea,0.0,0.0,0.0
+465,Whole Evaporated Milk (used In Coffee Or Tea),1 cup,338,Vegetarian,Tea,25.3,19.05,17.16
+466,Tea With Semi Skimmed Milk,1 teacup (180 ml),14,Vegetarian,Tea,1.57,0.44,0.97
+467,Iced Tea Lemon & Rooibos,1 cup (250 ml),75,Vegetarian,Tea,19.3,28.0,0.0
+468,Leaf Tea Unsweetened Decaffeinated,1 teacup (180 ml),2,Vegetarian,Tea,0.53,0.0,0.0
+469,Teh Tarik,1 cup,124,Vegetarian,Tea,21.22,3.28,2.98
+470,"Tea (brewed, With Distilled Water)",100 ml,1,Vegetarian,Tea,0.3,0.0,0.0
+471,Green Tea Ice Cream,1 cup,276,Vegetarian,Tea,34.86,13.96,4.9
+472,Presweetened Leaf Tea With Sugar Decaffeinated,1 teacup (180 ml),36,Vegetarian,Tea,9.43,0.0,0.0
+473,"Tea (lemon Flavoured, Instant Powder, Unsweetened)",1 tsp of rounded,5,Vegetarian,Tea,1.1,0.01,0.1
+474,Rehab Green Tea,1 can (500 ml),49,Vegetarian,Tea,12.0,0.0,0.5
+475,Bubble Tea,1 glass (300 ml),271,Vegetarian,Tea,58.83,3.06,3.07
+476,"Tea (lemon Flavoured, Without Added Ascorbic Acid, Instant Powder, Sweetened With Sugar)",1 cup (240 ml),91,Vegetarian,Tea,22.3,0.16,0.03
+477,Rooibos Ice Tea,100 ml,25,Vegetarian,Tea,6.0,0.0,0.0
+478,Unsweetened Iced Tea,1 cup (240 ml),2,Vegetarian,Tea,0.67,0.0,0.02
+479,Creamy Tea Latte Chai Flavour,1 serving (22 g),94,Vegetarian,Tea,17.0,2.3,1.9
+480,Russian Tea,1 teacup (180 ml),103,Vegetarian,Tea,26.49,0.02,0.09
+481,Red Tea,1 tea bag (2 g),7,Vegetarian,Tea,1.0,0.0,0.2
+482,Instant Tea Unsweetened (made From Powdered),1 mug (240 ml),5,Vegetarian,Tea,1.09,0.0,0.09
+483,Rooibos Tea,1 serving (200 ml),0,Vegetarian,Tea,0.0,0.0,0.0
+484,Presweetened Tea,1 teacup (180 ml),36,Vegetarian,Tea,9.47,0.0,0.02
+485,Herbal Tea Presweetened,1 mug (240 ml),47,Vegetarian,Tea,12.32,0.0,0.0
+486,Rooibos Cappuccino,1 sachet (15 g),65,Vegetarian,Tea,11.6,0.3,0.4
+487,Leaf Tea Presweetened,1 mug (240 ml),47,Vegetarian,Tea,12.56,0.0,0.0
+488,Presweetened Decaffeinated Tea,1 teacup (180 ml),36,Vegetarian,Tea,9.43,0.0,0.0
+489,Ice Tea Peach,1 bottle (500 ml),170,Vegetarian,Tea,40.0,0.0,0.0
+490,Herbal Tea Presweetened With Sugar,1 mug (240 ml),47,Vegetarian,Tea,12.32,0.0,0.0
+491,Clear Green Tea Mint,100 ml,0,Vegetarian,Tea,0.0,0.0,0.1
+492,Instant Tea Dry Sweetened Powdered,"1 tsp, dry",4,Vegetarian,Tea,0.94,0.0,0.03
+493,Green Tea,1 cup (250 ml),0,Vegetarian,Tea,0.0,0.0,0.0
+494,Green Tea Ice Tea,1 can (330 ml),96,Vegetarian,Tea,22.77,0.0,0.0
+495,Presweetened Leaf Tea With Low Calorie Sweetener,1 teacup (180 ml),5,Vegetarian,Tea,1.19,0.0,0.02
+496,"Tea (instant Powder, Unsweetened)",1 tsp,2,Vegetarian,Tea,0.41,0.0,0.14
