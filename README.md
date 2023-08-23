@@ -49,6 +49,8 @@ The recommendation system will focus solely on suggesting Indian foods based on 
 3. Develop a mobile app version for convenience and wider accessibility.
 4. Implement user profiles for tracking past preferences and recommendations.
 
+![image](https://github.com/raviteja-padala/Datasets/blob/main/images/foodNutri_AI.png)
+
 ## `Conclusion`:
 The Indian Food Calorie-Based Recommendation System addresses the need for a personalized food recommendation solution based on users' calorie preferences. By leveraging nutritional data and a recommendation algorithm, the system empowers users to make healthier food choices while enjoying the rich flavors of Indian cuisine. As the system evolves and incorporates additional features, it will continue to enhance the dining experiences of users.
 
